@@ -1,7 +1,7 @@
 {
   "name": "render-web-proxy",
   "version": "1.0.0",
-  "description": "Ein Web Proxy mit URL Rewriting",
+  "description": "Proxy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
